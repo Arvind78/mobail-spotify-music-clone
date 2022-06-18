@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("milad-fakurian-u8Jn2rzYIps-unsplash.jpg");
+    background-size: cover;
+  background-repeat: no-repeat;
+}
+#signup{
+height: 430px;
+width: 330px;
+ 
+ 
+border-radius: 10px;
+background-color:rgba(252, 248, 241, 0.078);
+border:2px solid black;
+
+}
+#cen{
+    height:550px;
+ width:100%;
+ display: flex;
+ 
+ justify-content: center;
+align-items: center;
+}
+#up{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:40px;
+ border-radius: 5px; 
+    background-color:rgba(168, 79, 108, 0.726);
+}
+#submit{
+    border-radius: 30px;
+    margin-left:107px;
+    width:35%;
+    font-size:18px;
+}
+ 
+input{
+    width: 100%;
+    padding: 8px;
+    outline-style: none;
+    border-radius: 6px;
+   
+}
+label{
+   font-size: 25px;
+}
