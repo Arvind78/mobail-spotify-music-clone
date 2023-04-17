@@ -261,7 +261,7 @@ p{
 .main-box-1{
     background-color:#000;
     width: 100%;
-    height: 320px;
+    height: 280px;
     display: flex;
 
     justify-content: space-between;
@@ -283,7 +283,7 @@ text-transform: uppercase;
 
  
 #logospo{
-    width: 20%;
+/*     width: 20%; */
     height: 50px;
     /* background-color: red; */
    margin-top: 9px;
