@@ -12,6 +12,7 @@
     align-items: center;
     padding: 0px 60px 0px 50px;
     height:60px;
+    color:#fff"
 }
 #logo{
      height: 50px;
@@ -53,7 +54,8 @@ background-color: rgb(25, 15, 82);
     min-height: 500px;
     overflow: hidden;
     padding: 0px;
-    background: url(https://www.scdn.co/i/free/bubbles-mobile.svg) center center / 100% 927px no-repeat, linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166)) rgb(108, 14, 224);
+    background: url(https://www.scdn.co/i/free/bubbles-mobile.svg) center center / 100% 927px no-repeat, 
+        linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166)) rgb(108, 14, 224);
     background-position: center center;
     background-repeat: no-repeat;}
     #sec2{
